@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b31c0810-ba64-4581-9a59-930f84e8b510" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/inherit/and/sup/keyword/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inherit/and/sup/keyword/MySubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inherit/and/sup/keyword/MySuperClass.java" afterDir="false" />
+    <list default="true" id="b31c0810-ba64-4581-9a59-930f84e8b510" name="Changes" comment="Inheritance and super keyword">
+      <change afterPath="$PROJECT_DIR$/src/access/modifirs/dev/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/modifirs/qa/QaClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/modifirs/qa/QaClass1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.access.modifirs.dev.MyClass">
     <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inherit.and.sup.keyword.MyClass" />
       <module name="JavaExempleProjectUdem" />
@@ -52,8 +52,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="access.modifirs.dev.MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="access.modifirs.dev.MyClass" />
+      <module name="JavaExempleProjectUdem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="access.modifirs.dev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.access.modifirs.dev.MyClass" />
         <item itemvalue="Application.MyClass" />
       </list>
     </recent_temporary>
@@ -66,8 +80,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653491824124</updated>
-      <workItem from="1653491825917" duration="1547000" />
+      <workItem from="1653491825917" duration="3257000" />
     </task>
+    <task id="LOCAL-00001" summary="Inheritance and super keyword">
+      <created>1653493441942</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653493441942</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inheritance and super keyword" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance and super keyword" />
   </component>
 </project>
