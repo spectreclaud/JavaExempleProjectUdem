@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b31c0810-ba64-4581-9a59-930f84e8b510" name="Changes" comment="Polymorphism">
-      <change afterPath="$PROJECT_DIR$/src/abstraction/abstr/clas/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/abstr/clas/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/abstr/clas/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/abstr/clas/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/interfac/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/interfac/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/interfac/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/interfac/Square.java" afterDir="false" />
+    <list default="true" id="b31c0810-ba64-4581-9a59-930f84e8b510" name="Changes" comment="Abstraction">
+      <change afterPath="$PROJECT_DIR$/src/exceptions/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/MyException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +44,7 @@
       <recent name="C:\Users\dellf\IdeaProjects\MyFirstJavaProject\JavaExempleProjectUdem\src\polymorphism\compile\time\polimo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyClass">
+  <component name="RunManager" selected="Application.exceptions.MyClass">
     <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="abstraction.interfac.MyClass" />
       <module name="JavaExempleProjectUdem" />
@@ -77,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="encapsulation.MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="encapsulation.MyClass" />
+    <configuration name="exceptions.MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.MyClass" />
       <module name="JavaExempleProjectUdem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="encapsulation.*" />
+          <option name="PATTERN" value="exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exceptions.MyClass" />
         <item itemvalue="Application.MyClass" />
         <item itemvalue="Application.abstraction.abstr.clas.MyClass" />
         <item itemvalue="Application.polymorphism.compile.time.polimo.MyClass" />
         <item itemvalue="Application.polymorphism.run.time.polimo.MyClass" />
-        <item itemvalue="Application.encapsulation.MyClass" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653491824124</updated>
-      <workItem from="1653491825917" duration="10056000" />
+      <workItem from="1653491825917" duration="13049000" />
     </task>
     <task id="LOCAL-00001" summary="Inheritance and super keyword">
       <created>1653493441942</created>
@@ -164,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653568609255</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Abstraction">
+      <created>1653573592567</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653573592567</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +187,7 @@
     <MESSAGE value="Access modifiers" />
     <MESSAGE value="Encapsulation" />
     <MESSAGE value="Polymorphism" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism" />
+    <MESSAGE value="Abstraction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstraction" />
   </component>
 </project>
